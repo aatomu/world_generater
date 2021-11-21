@@ -2,7 +2,7 @@
 ストラクチャーでワールドを生成
 
 ## 使い方:  
-```mcfunction
+```
 /data modify storage world: _ set value 
 [
   [
